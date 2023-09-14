@@ -1,4 +1,4 @@
-# Women in Cybersecurity Official Website
+# Women in Cybersecurity @Illinois Official Website
 
 ## Table of Contents:
 
