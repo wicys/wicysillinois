@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>WiCys Corporate Page</title>
+        <title>WiCys Social Page</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
