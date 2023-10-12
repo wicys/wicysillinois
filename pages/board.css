@@ -33,3 +33,14 @@ code {
   justify-content: center;
   align-items: center;
 }
+.boardimages img{
+  width: 10em;
+  height: 10em;
+  margin-left:10em;
+  margin-right: 10em;
+}
+.name {
+  text-align: center;
+  font-size: 15px;
+  font-weight: bold;
+}

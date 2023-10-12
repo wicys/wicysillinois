@@ -8,8 +8,11 @@
     "export": "next export"
   },
   "dependencies": {
+    "audit": "^0.0.6",
     "cypress": "^10.0.3",
+    "fix": "^0.0.6",
     "next": "^12.1.5",
+    "npm": "^10.1.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
   }
