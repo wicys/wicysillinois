@@ -33,3 +33,159 @@ code {
   justify-content: center;
   align-items: center;
 }
+
+
+/*trying something out - decide whether to add to main 
+
+
+*/
+.component {
+    height: 1442px;
+    position: relative;
+    width: 1047px;
+  }
+  
+  .component .overlap {
+    height: 78px;
+    left: 20px;
+    position: absolute;
+    top: 0;
+    width: 948px;
+  }
+  
+  .component .overlap-group {
+    height: 78px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 948px;
+  }
+  
+  .component .rectangle {
+    height: 17px;
+    left: 0;
+    position: absolute;
+    top: 61px;
+    width: 948px;
+  }
+  
+  .component .wicys-white-logo {
+    height: 69px;
+    left: 13px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 112px;
+  }
+  
+  .component .events-EOH-board {
+    height: 26px;
+    left: 271px;
+    position: absolute;
+    top: 29px;
+    width: 436px;
+  }
+  
+  .component .events {
+    height: 51px;
+    left: 368px;
+    position: absolute;
+    top: 130px;
+    width: 302px;
+  }
+  
+  .component .img {
+    height: 35px;
+    left: 191px;
+    position: absolute;
+    top: 132px;
+    width: 59px;
+  }
+  
+  .component .img-2 {
+    height: 35px;
+    left: 805px;
+    position: absolute;
+    top: 134px;
+    width: 59px;
+  }
+  
+  .component .div {
+    height: 383px;
+    left: 0;
+    position: absolute;
+    top: 635px;
+    width: 482px;
+  }
+  
+  .component .image {
+    height: 383px;
+    left: 11px;
+    mix-blend-mode: exclusion;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 471px;
+  }
+  
+  .component .mask-group {
+    height: 97px;
+    left: 0;
+    position: absolute;
+    top: 139px;
+    width: 478px;
+  }
+  
+  .component .wicys-illinois-cd {
+    height: 71px;
+    left: 21px;
+    position: absolute;
+    top: 244px;
+    width: 390px;
+  }
+  
+  .component .women-in {
+    height: 164px;
+    left: 20px;
+    position: absolute;
+    top: 364px;
+    width: 920px;
+  }
+  
+  /* .component .corporate-wrapper {
+    background-image: url(./screenshot-2023-08-05-223652-2.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 383px;
+    left: 516px;
+    position: absolute;
+    top: 635px;
+    width: 488px;
+  } */
+  
+  .component .corporate {
+    height: 75px;
+    left: 51px;
+    position: absolute;
+    top: 157px;
+    width: 409px;
+  }
+  
+  /* .component .social-wrapper {
+    background-image: url(./image-7.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 383px;
+    left: 248px;
+    position: absolute;
+    top: 1067px;
+    width: 525px;
+  }
+   */
+  .component .social {
+    height: 75px;
+    left: 131px;
+    position: absolute;
+    top: 161px;
+    width: 259px;
+  }
