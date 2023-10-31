@@ -1,0 +1,23 @@
+.container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.boardimages img{
+  width: 15em;
+  height: 15em;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.boardnames{
+  font-size: 2.25em;
+}
+.description{
+  color: #68B761;
+  padding-left: 5em;
+  text-align: left;
+  background-color: black;
+}
