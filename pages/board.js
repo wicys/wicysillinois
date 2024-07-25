@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
+import styles from '../styles/board.module.css'
 export default function Board() {
   return (
     <div >
@@ -11,48 +12,74 @@ export default function Board() {
 
       <main>
         <Header title="Executive Board Members" />
-        <div className='boardimages'>
-        <p className="description"> 
-          <span className='wicys-green'>wicys@illinois</span>:~$ cd ..
-          <br/><span className='wicys-green'>wicys@illinois</span>:~$ cd Board
-          <br/><span className='wicys-green'>wicys@illinois</span>:~$ cat Board.txt
+        <div className={styles.boardimages}>
+        <p className={styles.description}> 
+          wicys@illinois:~$ cd ..
+          <br/>wicys@illinois:~$ cat Board.txt
         </p>
         <br></br>
         <h1>Meet the 2023-2023 Board!</h1>
-        <p><span className='wicys-green'>wicys@illinois</span>:~$ su President<br/><span className='wicys-green'>President@illinois</span>:~$ whoami</p>
-        <p class='name'>Sophia Liu<br/>President<br/>Sophomore in Computer Science</p>
+        <hr></hr>
+        <p class={styles.description}>wicys@illinois:~$ su President<br/>President@illinois:~$ whoami</p>
+        <p class={styles.boardnames}>Sophia Liu<br/>President<br/>Sophomore in Computer Science</p>
         <img src = "/prez.jpg"></img>
-
-        <p><span className='wicys-green'>wicys@illinois</span>:~$ su ExternalVicePresident<br/><span className='wicys-green'>ExternalVicePresident@illinois</span>:~$ whoami</p>
-        <p class='name'>Priya Dutta<br/>External Vice President<br/>Junior in Computer Engineering</p>
+        <br/>
+        <br/>
+        <br/>
+        <hr></hr>
+        <p class={styles.description}>wicys@illinois:~$ su ExternalVicePresident<br/>ExternalVicePresident@illinois:~$ whoami</p>
+        <p class={styles.boardnames}>Priya Dutta<br/>External Vice President<br/>Junior in Computer Engineering</p>
         <img src = "/extvp.png"></img>
-
-        <p><span className='wicys-green'>wicys@illinois</span>:~$ su InternalVicePresident<br/><span className='wicys-green'>InternalVicePresident@illinois</span>:~$ whoami</p>
-        <p class='name'>Abigail Obradovic<br/>Internal Vice President<br/>Sophomore in Computer Science</p>
+        <br/>
+        <br/>
+        <br/>
+        <hr></hr>
+        
+        <p class={styles.description}>wicys@illinois:~$ su InternalVicePresident<br/>InternalVicePresident@illinois:~$ whoami</p>
+        <p class='boardnames'>Abigail Obradovic<br/>Internal Vice President<br/>Sophomore in Computer Science</p>
         <img src = "/intvp.png"></img>
-
-        <p><span className='wicys-green'>wicys@illinois</span>:~$ su TechnicalLead<br/><span className='wicys-green'>TechnicalLead@illinois</span>:~$ whoami</p>  
-        <p class='name'>Nicole Gromski<br/>Technical Lead<br/>Junior in Information Science</p>
+        <br/>
+        <br/>
+        <br/>
+        <hr></hr>
+        <p class={styles.description}>wicys@illinois:~$ su TechnicalLead<br/>TechnicalLead@illinois:~$ whoami</p>  
+        <p class={styles.boardnames}>Nicole Gromski<br/>Technical Lead<br/>Junior in Information Science</p>
         <img src = "/nicoletechlead.png"></img>
-
-        <p><span className='wicys-green'>wicys@illinois</span>:~$ su TechnicalLead<br/><span className='wicys-green'>TechnicalLead@illinois</span>:~$ whoami</p>
-        <p class='name'>Athena Fung<br/>Technical Lead<br/>Junior in Computer Science</p>
+        <br/>
+        <br/>
+        <br/>
+        <hr></hr>
+        <p class={styles.description}>wicys@illinois:~$ su TechnicalLead<br/>TechnicalLead@illinois:~$ whoami</p>
+        <p class={styles.boardnames}>Athena Fung<br/>Technical Lead<br/>Junior in Computer Science</p>
         <img src = "/athenatechlead.png"></img>
-
-        <p><span className='wicys-green'>wicys@illinois</span>:~$ su TechnicalLead<br/><span className='wicys-green'>TechnicalLead@illinois</span>:~$ whoami</p>
-        <p class='name'>Japjeev Kaur<br/>Technical Lead<br/>Freshman in Computer Science and Economics</p>
+        <br/>
+        <br/>
+        <br/>
+        <hr></hr>
+        <p class={styles.description}>wicys@illinois:~$ su TechnicalLead<br/>TechnicalLead@illinois:~$ whoami</p>
+        <p class={styles.boardnames}>Japjeev Kaur<br/>Technical Lead<br/>Freshman in Computer Science and Economics</p>
         <img src = "/japjeevtechlead.png"></img>
-
-        <p><span className='wicys-green'>wicys@illinois</span>:~$ su TechnicalLead<br/><span className='wicys-green'>TechnicalLead@illinois</span>:~$ whoami</p>
-        <p class='name'>Kushi<br/>Technical Lead<br/>Sophomore in Computer Engineering</p>
+        <br/>
+        <br/>
+        <br/>
+        <hr></hr>
+        
+        <p class={styles.description}>wicys@illinois:~$ su TechnicalLead<br/>TechnicalLead@illinois:~$ whoami</p>
+        <p class={styles.boardnames}>Kushi Kalra<br/>Technical Lead<br/>Sophomore in Computer Engineering</p>
         <img src = "/kushitechlead.png"></img>
-
-        <p><span className='wicys-green'>wicys@illinois</span>:~$ su Treasurer<br/><span className='wicys-green'>Treasurer@illinois</span>:~$ whoami</p>
-        <p class='name'>Sena Tiryaki<br/>Treasurer<br/>Freshman in Computer Engineering</p>
+        <br/>
+        <br/>
+        <br/>
+        <hr></hr>
+        <p class={styles.description}>wicys@illinois:~$ su Treasurer<br/>Treasurer@illinois:~$ whoami</p>
+        <p class={styles.boardnames}>Sena Tiryaki<br/>Treasurer<br/>Freshman in Computer Engineering</p>
         <img src = "/treasurer.png"></img>
-
-        <p><span className='wicys-green'>wicys@illinois</span>:~$ su PublicRelationsChair<br/><span className='wicys-green'>PublicRelationsChair@illinois</span>:~$ whoami</p>
-        <p class='name'>Alejandra Arias<br/>Public Relations Chair<br/>Sophomore in Information Science + Computer Science Minor</p>
+        <br/>
+        <br/>
+        <br/>
+        <hr></hr>
+        <p class={styles.description}>wicys@illinois:~$ su PublicRelationsChair<br/>PublicRelationsChair@illinois:~$ whoami</p>
+        <p class={styles.boardnames}>Alejandra Arias<br/>Public Relations Chair<br/>Sophomore in Information Science + Computer Science Minor</p>
         <img src = "/pubrelations.png"></img>
         </div>
       </main>
