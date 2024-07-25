@@ -27,7 +27,6 @@ export default function Board() {
         <br/>
         <br/>
         <hr></hr>
-
         <p class={styles.description}>wicys@illinois:~$ su ExternalVicePresident<br/>ExternalVicePresident@illinois:~$ whoami</p>
         <p class={styles.boardnames}>Priya Dutta<br/>External Vice President<br/>Junior in Computer Engineering</p>
         <img src = "/extvp.png"></img>
@@ -43,7 +42,6 @@ export default function Board() {
         <br/>
         <br/>
         <hr></hr>
-
         <p class={styles.description}>wicys@illinois:~$ su TechnicalLead<br/>TechnicalLead@illinois:~$ whoami</p>  
         <p class={styles.boardnames}>Nicole Gromski<br/>Technical Lead<br/>Junior in Information Science</p>
         <img src = "/nicoletechlead.png"></img>
@@ -51,7 +49,6 @@ export default function Board() {
         <br/>
         <br/>
         <hr></hr>
-
         <p class={styles.description}>wicys@illinois:~$ su TechnicalLead<br/>TechnicalLead@illinois:~$ whoami</p>
         <p class={styles.boardnames}>Athena Fung<br/>Technical Lead<br/>Junior in Computer Science</p>
         <img src = "/athenatechlead.png"></img>
@@ -59,7 +56,6 @@ export default function Board() {
         <br/>
         <br/>
         <hr></hr>
-
         <p class={styles.description}>wicys@illinois:~$ su TechnicalLead<br/>TechnicalLead@illinois:~$ whoami</p>
         <p class={styles.boardnames}>Japjeev Kaur<br/>Technical Lead<br/>Freshman in Computer Science and Economics</p>
         <img src = "/japjeevtechlead.png"></img>
@@ -75,7 +71,6 @@ export default function Board() {
         <br/>
         <br/>
         <hr></hr>
-
         <p class={styles.description}>wicys@illinois:~$ su Treasurer<br/>Treasurer@illinois:~$ whoami</p>
         <p class={styles.boardnames}>Sena Tiryaki<br/>Treasurer<br/>Freshman in Computer Engineering</p>
         <img src = "/treasurer.png"></img>
@@ -83,7 +78,6 @@ export default function Board() {
         <br/>
         <br/>
         <hr></hr>
-
         <p class={styles.description}>wicys@illinois:~$ su PublicRelationsChair<br/>PublicRelationsChair@illinois:~$ whoami</p>
         <p class={styles.boardnames}>Alejandra Arias<br/>Public Relations Chair<br/>Sophomore in Information Science + Computer Science Minor</p>
         <img src = "/pubrelations.png"></img>
