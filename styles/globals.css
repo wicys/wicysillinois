@@ -116,3 +116,19 @@ a {
   text-decoration: none;
 }
 
+.wicys-purple {
+  color: #812990;
+}
+
+.wicys-green {
+  color: #68B761;
+}
+
+.wicys-blue {
+  color: #006894;
+}
+
+img { 
+  float: left; 
+  margin: 5px; 
+} 

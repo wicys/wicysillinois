@@ -34,7 +34,7 @@ export default function Home() {
           <h1 className="header-block">Events</h1>
           <p className="block-text">
             We host general meetings every 2 weeks ranging from cryptography to command line workshops. Be sure to come network with company partners and learn with peers!
-            Check out our calendar to never miss our meetings!
+            Check out our <span className='wicys-blue'>calendar</span> to never miss our meetings!
           </p>
           <h1 className="header-block">EOH Game</h1>
           <p className="block-text">Every year we recruit individuals who are interested in gaining programming experience and incorporating cybersecurity topics into a security themed game! Be sure to check out our past games and if interested to contribute, check out our Discord channel for meetings!
