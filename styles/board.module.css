@@ -9,15 +9,18 @@
   width: 15em;
   height: 15em;
   display: block;
+  margin-top: 1em;
   margin-left: auto;
-  margin-right: auto;
+  margin-right: 2em;
+  clip-path: circle();
+  shape-outside:image();
 }
 .boardnames{
-  font-size: 2.25em;
+  font-size: 2em;
 }
 .description{
+  text-wrap: nowrap;
   color: #68B761;
   padding-left: 5em;
   text-align: left;
-  background-color: black;
 }
