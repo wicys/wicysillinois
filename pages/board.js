@@ -8,9 +8,8 @@ export default function Board() {
         <title>WiCyS Illinois</title>
         <link rel="icon" href="https://www.wicys.org/wp-content/uploads/2020/10/favicon-wicys.png" />
       </Head>
-
+      <Header title="Executive Board Members" />
       <main>
-        <Header title="Executive Board Members" />
         <div className='boardimages'>
         <p className="description"> 
           wicys@illinois:~$ cd ..

@@ -4,15 +4,12 @@ import Footer from '@components/Footer'
 
 export default function Corporate() {
   return (
-    <div className="container">
+    <div>
       <Head>
         <title>WiCyS Illinois</title>
         <link rel="icon" href="https://www.wicys.org/wp-content/uploads/2020/10/favicon-wicys.png" />
       </Head>
-
-      <main>
-        
-      </main>
+      <Header />
 
       <Footer />
     </div>

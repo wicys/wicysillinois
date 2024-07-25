@@ -1,0 +1,47 @@
+.hvr-float {
+    text-decoration: none;
+    display: inline-block;
+    vertical-align: middle;
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    backface-visibility: hidden;
+    -moz-osx-font-smoothing: grayscale;
+    transition-duration: 0.5s;
+    transition-property: transform;
+    transition-timing-function: ease-out;
+  }
+  .hvr-float:hover,
+  .hvr-float:focus,
+  .hvr-float:active {
+    transform: translateY(-8px);
+    color: #426040;
+  }
+  
+  .header-main {
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 40px;
+    text-decoration: none;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  
+  
+  .wicys-green {
+    color: #68B761;
+    
+  }
+  .nav-style {
+    text-decoration-line: none;
+    font-weight: 700;
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+    padding-top: 2rem;
+    gap: 2.5rem;
+    list-style-type: none;
+    display: flex;
+  }
+
+  
+ 
+  

@@ -9,9 +9,8 @@ export default function Contact() {
         <title>WiCyS Illinois</title>
         <link rel="icon" href="https://www.wicys.org/wp-content/uploads/2020/10/favicon-wicys.png" />
       </Head>
-
+      <Header title="Welcome to my app!" />
       <main>
-        <Header title="Welcome to my app!" />
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
