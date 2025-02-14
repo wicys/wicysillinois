@@ -10,7 +10,7 @@ export default function Board() {
         <link rel="icon" href="https://www.wicys.org/wp-content/uploads/2020/10/favicon-wicys.png" />
       </Head>
       <Header title="Executive Board Members" />
-      <h1>Meet the 2023-2023 Board!</h1>
+      <h1>Meet the 2024-2025 Board!</h1>
       <main>
         <div className={styles.boardimages}>
         <p className={styles.description}> 
