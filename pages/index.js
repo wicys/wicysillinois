@@ -22,7 +22,7 @@ export default function Home() {
             Our community is for those interested in learning more about the growing field of cybersecurity through tech talks, workshops, netowrking opportunities, research, conferences, and leadership opportunities.
           </p>
           <p className="block-text">
-            We have general meetings on Mondays from 6 to 7 PM every 2 weeks. Can’t make it? We have a bi-weekly <span className='wicys-green'>newsletter</span>!
+            We have general meetings on Mondays from 6 to 7 PM every 2 weeks. Can’t make it? Join us for weekly study hours from 6-8 PM in the Grainger Library (Room 433) to meet other members and be productive! We also have a bi-weekly <span className='wicys-green'>newsletter</span>!
           </p>
 
           <p className="block-text"> wicys@illinois: ~$ cd ..  </p>
