@@ -29,7 +29,7 @@ export default function Board() {
         <div/>
         <img src = "/japjeevkaur.png"></img>
         <p class={styles.description}>wicys@illinois:~$ su VicePresident<br/>VicePresident@illinois:~$ whoami</p>
-        <p class={styles.boardnames}>Japjeev Kaur<br/>Vice President<br/>Sophomore in Computer Science + Econ</p>
+        <p class={styles.boardnames}>Japjeev Kaur<br/>Vice President<br/>Sophomore in Computer Science + Economics</p>
         <br/>
         <br/>
         <br/>
