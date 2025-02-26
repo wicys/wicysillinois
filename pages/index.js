@@ -22,7 +22,7 @@ export default function Home() {
             Our community is for those interested in learning more about the growing field of cybersecurity through tech talks, workshops, netowrking opportunities, research, conferences, and leadership opportunities.
           </p>
           <p className="block-text">
-            We have general meetings on Mondays from 6 to 7 PM every 2 weeks. Can’t make it? We have a bi-weekly <span className='wicys-green'>newsletter</span>!
+            We have general meetings on Mondays from 6 to 7 PM every 2 weeks. Can’t make it? Join us for weekly study hours from 6-8 PM in the Grainger Library (Room 433) to meet other members and be productive! We also have a bi-weekly <span className='wicys-green'>newsletter</span>!
           </p>
 
           <p className="block-text"> wicys@illinois: ~$ cd ..  </p>
@@ -35,9 +35,6 @@ export default function Home() {
           <p className="block-text">
             We host general meetings every 2 weeks ranging from cryptography to command line workshops. Be sure to come network with company partners and learn with peers!
             Check out our <span className='wicys-blue'>calendar</span> to never miss our meetings!
-          </p>
-          <h1 className="header-block">EOH Game</h1>
-          <p className="block-text">Every year we recruit individuals who are interested in gaining programming experience and incorporating cybersecurity topics into a security themed game! Be sure to check out our past games and if interested to contribute, check out our Discord channel for meetings!
           </p>
           <h1 className="header-block">READY TO JOIN?</h1>
           <p className="block-text">Women in Cybersecurity Illinois is free to join and open to anyone! Don’t be discouraged if you do not identify as a woman or have little to no cybersecurity knowledge. The best way to get involved is to join our Discord and follow our Instagram! There, you will find reminders for meetings and past events we host, feel free to ask any questions you may have. </p>
