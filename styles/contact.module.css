@@ -1,0 +1,45 @@
+.main {
+    padding: 2rem 0;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .section {
+    margin-bottom: 2.5rem;
+  }
+  
+  .socialIcons a {
+    margin-right: 1rem;
+    font-size: 1.5rem;
+    color: #555;
+    transition: color 0.2s ease;
+  }
+  
+  .socialIcons a:hover {
+    color: #8a2be2;
+  }
+  
+  .newsletterButton {
+    display: inline-block;
+    margin-top: 1rem;
+    background-color: #8a2be2;
+    color: white;
+    padding: 0.6rem 1.2rem;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background 0.2s ease;
+  }
+  
+  .newsletterButton:hover {
+    background-color: #6a1bd0;
+  }
+  
+  .emailLink {
+    color: #68B761;
+    text-decoration: none;
+  }
+  
+  .emailLink:hover {
+    text-decoration: underline;
+    color: #6a1bd0;
+  }
