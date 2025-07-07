@@ -24,3 +24,8 @@
   color: #f5f9f4;
   /* add shadows/effects */
 }
+
+.emailLink {
+  color: #68B761;
+  text-decoration: none;
+}

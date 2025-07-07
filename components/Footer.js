@@ -40,7 +40,7 @@ export default function Footer() {
             </Button>
             <Button
               as="a"
-              href="https://www.youtube.com/@wicysuiuc54/"
+              href="https://discord.gg/skb8UeTPeC"
               target="_blank"
             >
               <FontAwesomeIcon icon={faDiscord} className={styles.social} />
@@ -80,7 +80,7 @@ export default function Footer() {
           </p>
           <p>
             Have a question? <br />
-            <a href="mailto:wicys.illinois@gmail.com">
+            <a href="mailto:wicys.illinois@gmail.com" className={styles.emailLink}>
               wicys.illinois@gmail.com
             </a>
           </p>
