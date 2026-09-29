@@ -18,7 +18,7 @@ export default function Home() {
           <br/>
           <br/><span className='wicys-green'>Women in CyberSecurity Illinois</span> is the UIUC student chapter of the national organization dedicated to bringing together women in cybersecurity from academia, research, and industry to share knowledge, experience, mentoring, and networking.
           <br/>
-          <br/>Our community is for those interested in learning more about the growing field of cybersecurity through tech talks, workshops, netowrking opportunities, research, conferences, and leadership opportunities.
+          <br/>Our community is for those interested in learning more about the growing field of cybersecurity through tech talks, workshops, networking opportunities, research, conferences, and leadership opportunities.
           <br/>
           <br/>We host meetings every week ranging from cryptography to command line workshops. Be sure to come network with company partners and learn with peers!
           <br/>
