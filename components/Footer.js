@@ -2,7 +2,7 @@ import styles from "./Footer.module.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faDiscord,
-  faFacebook,
+  // faFacebook,
   faGithub,
   faInstagram,
   faYoutube,
@@ -40,7 +40,7 @@ export default function Footer() {
             </Button>
             <Button
               as="a"
-              href="https://www.youtube.com/@wicysuiuc54/"
+              href="https://discord.gg/KQ2ewFv2NQ"
               target="_blank"
             >
               <FontAwesomeIcon icon={faDiscord} className={styles.social} />
@@ -48,27 +48,27 @@ export default function Footer() {
             <Button as="a" href="https://github.com/wicys" target="_blank">
               <FontAwesomeIcon icon={faGithub} className={styles.social} />
             </Button>
-            <Button
+            {/* <Button
               as="a"
               href="https://www.facebook.com/WiCyS.illinois/"
               target="_blank"
             >
               <FontAwesomeIcon icon={faFacebook} className={styles.social} />
-            </Button>
-            <Button
+            </Button> */}
+            {/* <Button
               as="a"
               href="https://www.youtube.com/@wicysuiuc54/"
               target="_blank"
             >
               <FontAwesomeIcon icon={faYoutube} className={styles.social} />
-            </Button>
+            </Button> */}
           </div>
         </div>
 
         <div className="column">
           {" "}
           {/* wondering if we could implement enter email & automatically enroll to subscribe? */}
-          <p>
+          {/* <p>
             Subscribe to our{" "}
             <a
               as="a"
@@ -77,7 +77,7 @@ export default function Footer() {
             >
               newsletter
             </a>
-          </p>
+          </p> */}
           <p>
             Have a question? <br />
             <a href="mailto:wicys.illinois@gmail.com">
