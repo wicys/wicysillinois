@@ -37,7 +37,7 @@ export default function Home() {
             {/* Check out our <span className='wicys-blue'>calendar</span> to never miss our meetings! */}
           </p>
           <h1 className="header-block">READY TO JOIN?</h1>
-          <p className="block-text">Women in Cybersecurity Illinois is free to join and open to anyone! Don’t be discouraged if you do not identify as a woman or have little to no cybersecurity knowledge. The best way to get involved is to join our Discord and follow our Instagram! There, you will find reminders for meetings and past events we host, feel free to ask any questions you may have. </p>
+          <p className="block-text">Women in Cybersecurity Illinois is free to join and open to anyone! Don’t be discouraged if you do not identify as a woman or have little to no cybersecurity knowledge. The best way to get involved is to join our Discord and follow our Instagram! There, you will find reminders for meetings and past events we host. Feel free to ask any questions you may have. </p>
           {/* <p className="block-text">We also host social events such as pumpkin painting and study sessions when you want to relax! Join our newsletter to receive bi-weekly updates so you never miss out from us. </p> */}
       <Footer/>
     </div>
