@@ -12,16 +12,16 @@ export default function events() {
         "Hone your technical skills with hands-on coding sessions, CTFs, reverse engineering, and cybersecurity tool demos.",
     },
     {
-      title: "Social Events",
-      image: "/social.jpg",
-      description:
-        "Build lasting friendships through game nights, ice cream socials, movie screenings, and bonding activities.",
-    },
-    {
       title: "Corporate Events",
       image: "professional.jpg",
       description:
         "Get career-ready with resume workshops, mock interviews, and networking nights hosted by top companies in cybersecurity.",
+    },
+    {
+      title: "Social Events",
+      image: "/social.jpg",
+      description:
+        "Build lasting friendships through game nights, ice cream socials, movie screenings, and bonding activities.",
     },
   ];
 

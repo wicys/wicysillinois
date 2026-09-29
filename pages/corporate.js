@@ -6,7 +6,7 @@ export default function Corporate() {
   return (
     <div>
       <Head>
-        <title>WiCyS Illinois</title>
+        <title>WiCyS Illinois | Corporate</title>
         <link rel="icon" href="https://www.wicys.org/wp-content/uploads/2020/10/favicon-wicys.png" />
       </Head>
 
@@ -15,7 +15,7 @@ export default function Corporate() {
       {}
       <div style={{ margin: '20px', display: 'flex', justifyContent: 'center' }}>
         <iframe
-          src= "/pdfs/WiCySCorporate_Fall2024.pdf" 
+          src= "/pdfs/WiCyS_Corporate_Packet.pdf" 
           width="800"
           height="600"
           style={{ border: 'none' }}
