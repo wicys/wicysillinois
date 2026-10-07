@@ -19,7 +19,7 @@ export default function Board() {
         </p>
         <br></br>
         <p class={styles.boardname}>-------------------------------------------------------------------------</p>
-        <img src = "/michaela-briones.png"></img>
+        <img src = "/michaela-briones.jpg"></img>
         <p class={styles.description}>wicys@illinois:~$ su President<br/>President@illinois:~$ whoami</p>
         <p class={styles.boardnames}>Michaela Briones<br/>President<br/>Junior in Computer Science</p>
         <br/>
